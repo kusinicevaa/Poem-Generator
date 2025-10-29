@@ -1,0 +1,2 @@
+//script commands
+alert("Welcome");
